@@ -1,6 +1,0 @@
-sound when an achievement is earned (1 unit)
-Animation when an achievement is earned (1 unit)
-Be able to view difficulty level on achievement screen (2 units)
-Be able to view difficulty level on gameplays screen (1 unit)
-Be able to click on gameplay and edit score(s) and difficulty (5 units)
-Change config activity so that first prompt is number of players, then individual text boxes for score of each player (UI) (5 units)
