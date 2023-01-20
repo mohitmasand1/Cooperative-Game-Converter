@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_about"
+        android:text="About"
+        android:title="About"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/dropdown_menu_themes"
+        app:showAsAction="always"
+        android:title=""
+        android:icon="@drawable/ic_baseline_menu_24">
+        <menu>
+            <item android:id="@+id/fruit_theme_option"
+                android:title="@string/fruit_theme"
+                app:showAsAction="never"/>
+            <item android:id="@+id/animal_theme_option"
+                android:title="@string/animal_theme"
+                app:showAsAction="never"/>
+            <item android:id="@+id/planet_theme_option"
+                android:title="@string/planet_theme"
+                app:showAsAction="never"/>
+        </menu>
+
+    </item>
+</menu>

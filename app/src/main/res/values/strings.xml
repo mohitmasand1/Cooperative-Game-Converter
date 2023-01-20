@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Argon</string>
+    <string name="add_from_player_score_button">Confirm and Add</string>
+    <string name="game_configuration">Game Configuration</string>
+    <string name="game_configurations">Game Configurations</string>
+    <string name="number_of_players"># of players</string>
+    <string name="combined_score">Combined Score</string>
+    <string name="add_game">Add Game</string>
+    <string name="complete_edit_gameplay">Complete game edit</string>
+    <string name="date">Date</string>
+    <string name="level">Level:</string>
+    <string name="empty_state_gameconfig_text">There are no game configurations currently.</string>
+    <string name="please_enter_players_and_diff">Please Enter Both Fields</string>
+    <string name="achieve_activity_title">View Achievement Levels</string>
+    <string name="no_title" />
+    <string name="config_activity_title">%1$s\'s Configuration</string>
+    <string name="no_gameplays_currently">There are no game plays currently.</string>
+    <string name="confirm_delete">\ Confirm Delete %1$s?\</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="config_num_players">Num players = %1$d</string>
+    <string name="config_combined_score">Combined score = %1$d</string>
+    <string name="edit_config_title">Edit Configuration</string>
+    <string name="add_gameplay_title">Add Gameplay</string>
+    <string name="add_configuration_title">Add Configuration</string>
+    <string name="finish_editing">Finish Editing</string>
+    <string name="game_configuration_name">Game Configuration Name</string>
+    <string name="add_gameplay">Add Gameplay</string>
+    <string name="add_configuration">Add Configuration</string>
+    <string name="invalid_score_inputs">Great score must be greater than poor score</string>
+    <string name="config_added">Game Configuration added</string>
+    <string name="gameplay_added">Gameplay added</string>
+    <string name="config_edited">Game Configuration edited</string>
+    <string name="incomplete_inputs">Please Fill in all inputs</string>
+    <string name="alert_menu_empty_title">Welcome!</string>
+    <string name="menu_games_played">Games played: %1$d</string>
+    <string name="alert_menu_empty_message">Please press the \"+\" button to add game configurations. To change the theme press in the triple bar in the top right corner.</string>
+    <string name="achievement_level_score">%1$s+</string>
+    <string name="achieve_levels">Levels</string>
+    <string name="achieve_number_of_players">Number Of Players</string>
+    <string name="achieve_score">Score</string>
+    <string name="achieve_find">Find</string>
+    <string name="config_add_gameplay">Add Game play</string>
+    <string name="config_edit_config">Edit Game Config</string>
+    <string name="poor_score_example">Ex. 12</string>
+    <string name="poor_score">Poor Score</string>
+    <string name="great_score">Great Score</string>
+    <string name="good_score_example">Ex. 114</string>
+    <string name="game_name_example">Ex. Monopoly</string>
+    <string name="combined_score_example">Ex. 120</string>
+    <string name="number_players_example">Ex. 3</string>
+    <string name="no_games_played_title">No games played</string>
+    <string name="no_games_played">Click the add game button, then enter the number of players and choose a difficulty. After that, enter the score of each player. In the end, you\'ll be rewarded with an achievement!</string>
+    <string name="ADD_ZERO_PLAYERS_ERROR">Game Play must have more than 0 players</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="normal">NORMAL</string>
+    <string name="hard">HARD</string>
+    <string name="easy">EASY</string>
+    <string name="config_difficulty">Difficulty: %1$s</string>
+    <string name="difficulty_achieve">Difficulty</string>
+    <string name="fruit_theme">Fruit Theme</string>
+    <string name="animal_theme">Animal Theme</string>
+    <string name="planet_theme">Planet Theme</string>
+    <string name="toast_fill_all_scores">Please fill all scores</string>
+    <string name="main_menu_edit_theme">To edit the theme press the triple bar in the top right corner</string>
+    <string name="edit_gameplay_title">Edit Gameplay</string>
+    <string name="edit_gameplay_button">Edit Gameplay</string>
+    <string name="submit">Submit</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="title_achievement_bar_graph">Achievement graph for %1$s</string>
+    <string name="achievement_times_earned">Times Earned: %1$d</string>
+    <string name="enter_player_score_title">"Enter Player Scores"</string>
+    <string name="null_ptr_exception">NULL POINTER EXCEPTION</string>
+    <string name="zero">0</string>
+    <string name="applies_theme">Applied Theme</string>
+    <string name="level_achieved">Level Achieved: %1$s !</string>
+    <string name="points_away">%1$d points away: %2$s !</string>
+    <string name="camera_granted">Camera Permission Granted</string>
+    <string name="request_camera_perm">Please Give Camera Permission in Settings</string>
+    <string name="gameplay_img_save_name">GamePlay %1$d</string>
+    <string name="retake_img">Re-Take</string>
+    <string name="take_img">Take</string>
+    <string name="memory_img">Your Memory:</string>
+    <string name="set_board_img">Set Board Game Image Below!</string>
+    <string name="your_board_img">Your Board Game Image:</string>
+    <string name="reenter_params">re-enter gameplay parameters</string>
+    <string name="applied_theme">Applied %1$s Theme</string>
+    <string name="fruit">Fruit</string>
+    <string name="animal">Animal</string>
+    <string name="planet">Planet</string>
+
+    <!-- SFX resource strings -->
+    <string name="twink_sfx"><a href="https://pixabay.com/sound-effects/sound-effect-twinklesparkle-115095">
+        Twinkle SFX</a> </string>
+    <string name="sheep_sfx"><a href="https://pixabay.com/sound-effects/sheep-122256">
+        Sheep SFX</a></string>
+    <string name="munch_sfx"><a href="https://pixabay.com/sound-effects/apple-munch-40169">
+        Apple munch SFX</a></string>
+    <string name="fanfare_sfx"><a href="https://pixabay.com/sound-effects/success-fanfare-trumpets-6185">
+        Trumpet fanfare SFX</a></string>
+
+    <string name="about_heading"><b><u>CMPT 276 Argon Project</u></b>
+    </string>
+    <string name="about_createdBy"><b><i>created by: Amaan Khan, Sanshray Thapa, Mohit Masand, and Julia Luu </i></b>
+    </string>
+    <string name="about_body">
+        Project description: final project for 276 completed in three iterations of development in a group of ~4 students. App allows user to input information for gameplays of different games and output a combined score and achievement level to bring about a cooperative experience to otherwise competitive games.
+    </string>
+
+    <string name="about_ResourcesHead"><b>Resources used:</b></string>
+    <string name="about_IMGsHead"><i>Images:</i></string>
+    <string name="about_SFXsHead"><i>SFXs:</i></string>
+
+    <!-- IMG resource strings -->
+    <string name="achieveApple_img"><a href="https://www.vecteezy.com/vector-art/7739086-cartoon-cute-apple-character-design-apple-icon-illustration-template-vector-happy-apple-fruit-with-cute-kawaii-face-funny-vegetarian-character">
+        Apple Achievement IMG</a> </string>
+    <string name="achievePlum_img"><a href="https://pngimg.com/images/fruits/plum">
+        Plum Achievement IMG</a></string>
+    <string name="checkeredGreyBG_img"><a href="https://thumbs.dreamstime.com/b/seamles-white-grey-checkered-background-125237841.jpg">
+        Checkered Grey-White Background IMG</a></string>
+    <string name="checkeredPinkBG_img"><a href="https://static.vecteezy.com/system/resources/previews/010/839/433/non_2x aesthetic-pastel-pink-and-white-checkers-gingham-cute-checkerboard-wallpaper-illustration-perfect-for-banner-wallpaper-backdrop-postcard-background-for-your-design-vector.jpg">
+        Checkered Pink-White Background IMG</a></string>
+    <string name="achieveEmoji_img"><a href="https://emojipedia.org">
+        IOS emojis for Various Achievements</a></string>
+
+
+</resources>

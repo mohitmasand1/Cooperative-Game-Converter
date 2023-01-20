@@ -1,0 +1,13 @@
+Based off https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/course-info/styleguide
+-Use Meaningful Names
+-Name Conventions
+    - Constants must be all upper case, with multiple words separated by '_'
+    - Functions must start with a lower case letter, and use CamelCase
+    - Class names must start with an upper case letter, and use CamelCase.
+- Tab size is 4, same as indentation size
+- Statements and Spacing
+    - Each statement should be on its own line
+- Comments
+    - Comments which are on one line should use the // style. Comments which are or a couple lines may use either the //,
+    or /* ... */ style. Comments which are many lines long should use /* ... */.
+    - Each class should have a class comment

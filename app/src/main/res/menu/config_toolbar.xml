@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_delete"
+        android:text="Delete"
+        android:title="Delete"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_achieve"
+        android:icon="@drawable/ic_baseline_align_vertical_bottom_24"
+        android:title="Achievements"
+        app:showAsAction="ifRoom"/>
+
+</menu>

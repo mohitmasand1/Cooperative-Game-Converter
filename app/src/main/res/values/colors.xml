@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#b6b6b8</color>
+    <color name="pink">#e8c3de</color>
+    <color name="blue">#abc4ff</color>
+
+    <!-- Colours for bar graph -->
+    <color name="red">#d61e3c</color>
+    <color name="dark_orange">#dd6b00</color>
+    <color name="yellow">#d6c91e</color>
+    <color name="lime">#96c400</color>
+    <color name="green">#14a60e</color>
+    <color name="teal">#00787e</color>
+    <color name="cobalt_blue">#004895</color>
+    <color name="navy_blue">#190559</color>
+    <color name="purple">#770088</color>
+    <color name="magenta">#bb00bb</color>
+
+</resources>
