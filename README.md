@@ -38,12 +38,30 @@ Other Features:
 * Displays the points away from the next level (so user knows how close/far they were)
 * Automatically saves Board Game images and Game-Play memories to camera roll of the phone
 
+## Screenshots
+3 Main Pages (Animal Theme):
+
+Home Page (List of added Board Games)
+
+![Home Page](screenshots/main-page.png)
+
+Game-Play Page (e.g. for Monopoly)
+
+![Game-Play](screenshots/game-play-page.png)
+
+View Levels Page (e.g. for Monopoly)
+
+![Game-Play](screenshots/view-levels-page.png)
+
+
 ## Setup Requirements
 - Install the latest version of Android Studio
 - Install the latest version of the Software Development Kit
 - Set up an emulator on Android Studio (API >= 27, any phone)
 - Run the app (emulator must be API 27-33)
 
+## License 
+MIT
 
 ## Maintainer 
 - Mohit Masand
